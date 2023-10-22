@@ -1,0 +1,27 @@
+.unlocking-the-future {
+  height: 31px;
+  position: relative;
+  width: 491px;
+}
+
+.unlocking-the-future .div {
+  color: transparent;
+  font-family: "Gilroy-SemiBold", Helvetica;
+  font-size: 26px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 491px;
+}
+
+.unlocking-the-future .span {
+  color: #ffffff;
+}
+
+.unlocking-the-future .text-wrapper-2 {
+  color: #a78ee9;
+}

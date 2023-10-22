@@ -1,0 +1,20 @@
+.COMING-SOON {
+  height: 65px;
+  position: relative;
+  width: 399px;
+}
+
+.COMING-SOON .text-wrapper {
+  color: #d9d9d9;
+  font-family: "Gilroy-Medium", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 399px;
+}

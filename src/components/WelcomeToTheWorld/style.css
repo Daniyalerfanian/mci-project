@@ -1,0 +1,13 @@
+.welcome-to-the-world {
+  height: 38px;
+  position: relative;
+  width: 302px;
+}
+
+.welcome-to-the-world .img {
+  height: 31px;
+  left: 38px;
+  position: absolute;
+  top: -88px;
+  width: 464px;
+}

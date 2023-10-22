@@ -1,0 +1,18 @@
+.discover-the {
+  height: 123px;
+  position: relative;
+  width: 506px;
+}
+
+.discover-the .discover-web-the {
+  color: #ffffff80;
+  font-family: "Gilroy-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 506px;
+}
